@@ -1,0 +1,16 @@
+{
+  "name": "emailerambi",
+  "version": "0.0.1",
+  "description": "creating email and making user on olx",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.1.7",
+    "electron-packager": "^14.2.0",
+    "request": "^2.88.0"
+  }
+}
